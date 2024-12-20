@@ -1,6 +1,6 @@
 {
-  "name": "react-native-iconfont-cli",
-  "version": "2.2.4",
+  "name": "react-native-iconfont-cli-2",
+  "version": "2.2.5",
   "main": "index.js",
   "keywords": [
     "iconfont",
@@ -10,8 +10,8 @@
     "icons",
     "iconfont.cn"
   ],
-  "repository": "git@github.com:iconfont-cli/react-native-iconfont-cli.git",
-  "author": "范文华 <531362022@qq.com>",
+  "repository": "git@github.com:ace0109/react-native-iconfont-cli.git",
+  "author": "Ace <caiyuan0109@gmail.com.com>",
   "license": "MIT",
   "bin": {
     "iconfont": "./commands/help.js",
